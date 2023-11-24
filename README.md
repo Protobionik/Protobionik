@@ -5,7 +5,7 @@
 - Готов развиваться и обучаться дальше! 
 - Открыт для предложений! 
 ### Способы связи:
-[<img align="left" alt="opa_oz | telegram" width="22px" src="https://w7.pngwing.com/pngs/402/10/png-transparent-telegram-logo-scalable-graphics-icon-logo-blue-angle-triangle.png" />][telegram]
+[<img align="left" alt="opa_oz | telegram" width="22px" src="https://cdn-icons-png.flaticon.com/512/87/87413.png" />][telegram]
 [<img align="left" alt="opa_oz | LinkedIn" width="22px" src="https://pngicon.ru/file/uploads/vk.png" />][vk]
 
 
